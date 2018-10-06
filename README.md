@@ -2,7 +2,7 @@
 
 ## Virtual machine
 
-[](virtual_machine.png)
+![alt text](virtual_machine.png)
 
 ## Container
 
