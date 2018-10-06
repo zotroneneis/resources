@@ -6,12 +6,12 @@
 
 ## Container
 
-[](container.png)
+![alt text](container.png)
 
 ## Virtual Machine vs. Container
 
-[](vm_vs_container.png)
+![alt text](vm_vs_container.png)
 
 ## Image vs. Container
 
-[](image_vs_container.png)
+![alt text](image_vs_container.png)
