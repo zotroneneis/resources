@@ -15,3 +15,6 @@
 ## Image vs. Container
 
 ![alt text](image_vs_container.png)
+
+## Docker architecture
+![alt text](docker_architecture.png)
