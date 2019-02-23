@@ -1,20 +1,14 @@
 # Resources for my [personal blog](http://alpopkes.com/year-archive/)
 
-## Virtual machine
+This repository contains images, jupyter notebooks and PDF files related to my [personal website](http://alpopkes.com).
 
-![alt text](virtual_machine.png)
+## Images and corresponding blog posts:
+- [Virtual machines](virtual_machine.png), [Blogpost]()
+- [Containers](container.png), [Blogpost]()
+- [Virtual machine vs. Container](vm_vs_container.png), [Blogpost]()
+- [Image vs. Container](image_vs_container.png), [Blogpost]()
+- [Docker architecture](docker_architecture.png), [Blogpost]()
 
-## Container
-
-![alt text](container.png)
-
-## Virtual Machine vs. Container
-
-![alt text](vm_vs_container.png)
-
-## Image vs. Container
-
-![alt text](image_vs_container.png)
-
-## Docker architecture
-![alt text](docker_architecture.png)
+## PDF files of blog posts
+- [Kullback Leibler Divergence]()
+- [Variational Inference]()
